@@ -1,4 +1,4 @@
-# Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
+# Ex-04-Creating-a-Warehouse-Application-in-SalesForce.com
 
 ## AIM:
 To create a warehouse application in salesforce.com
@@ -10,7 +10,7 @@ To create a warehouse application in salesforce.com
 In Salesforce.com, we have two types of Applications they are
 1.	Classic Apps and
 2.	Lightning Apps.
-
+  
 In Salesforce we can create, manage and customise both applications according to user requirement.
 
 ## PROCEDURE
